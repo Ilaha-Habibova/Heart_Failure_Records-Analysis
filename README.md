@@ -1,6 +1,6 @@
 # Heart Failure Clinical Records Analysis
 
->🔹 What is <a href="https://github.com/Ilaha-Habibova/Heart_Failure_Records-Analysis/blob/main/heart_failure_clinical_records_dataset.csv">the dataset</a> about?
+> What is <a href="https://github.com/Ilaha-Habibova/Heart_Failure_Records-Analysis/blob/main/heart_failure_clinical_records_dataset.csv">the dataset</a> about?
 
 This dataset contains the medical records of 299 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical attributes (7 continuous,5 categorical features + categorical target). Machine learning, in particular, can predict patients’ survival from their data and can identify the most important features among those included in their medical records.
 <br>
