@@ -4,7 +4,7 @@
 
 This dataset contains the medical records of 299 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical attributes (7 continuous,5 categorical features + categorical target). Machine learning, in particular, can predict patients’ survival from their data and can identify the most important features among those included in their medical records.
 <br>
-## All 13 attributes meanings:
+## All 13 attributes' meanings:
 
 ![image](https://github.com/user-attachments/assets/28ec1f37-415f-455b-959c-1178a26057a1)
 
